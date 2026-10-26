@@ -1,0 +1,26 @@
+2026/10/26-22:49:07.340 37d4 Creating DB E:\Biz-Deliver\whatsapp-finance-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2026/10/26-22:49:07.357 37d4 Reusing MANIFEST E:\Biz-Deliver\whatsapp-finance-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/10/26-22:49:07.414 38f4 Level-0 table #5: started
+2026/10/26-22:49:07.419 38f4 Level-0 table #5: 7847 bytes OK
+2026/10/26-22:49:07.429 38f4 Delete type=0 #3
+2026/10/26-22:49:07.429 38f4 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/10/26-22:50:10.143 4178 Level-0 table #7: started
+2026/10/26-22:50:10.168 4178 Level-0 table #7: 1003176 bytes OK
+2026/10/26-22:50:10.171 4178 Delete type=0 #4
+2026/10/26-22:50:34.471 4178 Compacting 1@1 + 1@2 files
+2026/10/26-22:50:34.501 4178 Generated table #8@1: 13841 keys, 440554 bytes
+2026/10/26-22:50:34.501 4178 Compacted 1@1 + 1@2 files => 440554 bytes
+2026/10/26-22:50:34.509 4178 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/10/26-22:50:34.510 4178 Delete type=2 #5
+2026/10/26-22:50:34.510 4178 Delete type=2 #7
+2026/10/26-22:50:48.180 38f4 Level-0 table #10: started
+2026/10/26-22:50:48.211 38f4 Level-0 table #10: 1040341 bytes OK
+2026/10/26-22:50:48.213 38f4 Delete type=0 #6
+2026/10/26-22:50:55.988 38f4 Compacting 1@1 + 1@2 files
+2026/10/26-22:50:56.036 38f4 Generated table #11@1: 22379 keys, 937839 bytes
+2026/10/26-22:50:56.036 38f4 Compacted 1@1 + 1@2 files => 937839 bytes
+2026/10/26-22:50:56.038 38f4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/10/26-22:50:56.039 38f4 Delete type=2 #8
+2026/10/26-22:50:56.039 38f4 Delete type=2 #10
+2026/10/26-22:50:56.548 f78 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/10/26-22:50:56.550 4178 Manual compaction at level-1 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
